@@ -998,13 +998,12 @@
 "image": "https://pics.filmaffinity.com/lego_disney_frozen_operation_puffins-588828853-large.jpg",
 "url": "https://filemoon.to/d/h0rw4v302bgu/LEGO_Disney_Frozen_Operaci_n_Frailecillos",
 "info": "[2025][Animación, familia]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
 "embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
 		{
        	"name": "LEGO MARVEL AVENGERS, CODE RED",
         "image": "https://pics.filmaffinity.com/lego_marvel_avengers_code_red-713992148-large.jpg",
@@ -1062,13 +1061,12 @@
 "image": "https://pics.filmaffinity.com/dr_seuss_s_the_sneetches-800683987-large.jpg",
 "url": "https://filemoon.to/d/8j2d7r1z5wk1/Los_Sneetches_del_Dr._Seuss",
 "info": "[2025][Animación, familia]",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
 "embed": "",
-"isHost": "true",
-"online": "true",
-"import": false
-},
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
 	{ 
 	"name": "LUCA",
         "info":"2021",
@@ -2455,6 +2453,7 @@
 
     ]
 }  
+
 
 
 
