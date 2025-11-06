@@ -45,18 +45,6 @@
         "online":"true",
         "import": false
         },
-	{
-       	"name": "ADAM SANDLER ES LEO",
-        "image": "https://pics.filmaffinity.com/leo-530546739-large.jpg",
-        "url": "",
-       	"info": "[2023]",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-	"referer": "",
-        "embed":"",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
 	{ 
 	"name": "AINBO LA GUERRERA DEL AMAZONAS", 
 	"info": "2021",
@@ -2453,6 +2441,7 @@
 
     ]
 }  
+
 
 
 
