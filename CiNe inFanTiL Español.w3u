@@ -136,9 +136,9 @@
         "import": false
         },
 	{ 
-	"name": "BENJI, EL PERSEGUIDO",
+	"name": "BENJI",
 	"info": "1987",
-	"image": "https://i.postimg.cc/CLTHYB2w/Benji-el-perseguido-1987-Pelicula-infantil.jpg", 
+	"image": "https://pics.filmaffinity.com/benji-880744676-large.jpg", 
 	"url": "https://www.youtube.com/watch?v=v_7Zt0n6CYg&list=PLaI8tcGP-lUuKdCQKgGzA1DW3vLn4tdqJ&index=29",
       	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
@@ -2441,6 +2441,7 @@
 
     ]
 }  
+
 
 
 
