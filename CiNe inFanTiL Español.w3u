@@ -80,9 +80,9 @@
         "import": false
 	},
         {
-        "name": "ASOMBROSO MAURICIO, EL",
+        "name": "AVENTURAS DE MAURICE, LAS",
         "image": "https://pics.filmaffinity.com/the_amazing_maurice-509934440-large.jpg",
-        "url": "",
+        "url": "https://filemoon.to/d/34niy18gz5r0/Las_aventuras_de_Maurice",
         "info": "[2022]",
       	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
@@ -91,9 +91,9 @@
         "import": false
         },
         {
-        "name": "ASTERIX Y OBELIX, EL REINO MILENARIO",
+        "name": "ASTERIX Y OBELIX, EL REINO MEDIO",
         "image": "https://i.postimg.cc/L50yZWjt/Asterix-y-Obelix-el-reino-milenario-2023-Pelicula-familiar.jpg",
-        "url": "https://upstream.to/em9odjmf6dy1",
+        "url": "https://filemoon.to/d/h3vwmnpe7q2e/Ast_rix_y_Ob_lix_El_reino_medio",
         "info": "2023",
       	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
@@ -2441,6 +2441,7 @@
 
     ]
 }  
+
 
 
 
