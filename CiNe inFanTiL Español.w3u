@@ -126,7 +126,7 @@
 	{
         "name": "BEE MOVIE",
         "image": "https://pics.filmaffinity.com/bee_movie-441375499-large.jpg",
-        "url": "https://filemoon.to/d/3ajer4wioo5r/Bee.Movie._Spanish.English.Subs_.HD.1080p.x264-AC3..mkv",
+        "url": "hhttps://filemoon.to/d/z3i7r5jly70w/Bee_Movie",
         "info": "2024",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
@@ -139,7 +139,7 @@
 	"name": "BENJI",
 	"info": "1987",
 	"image": "https://pics.filmaffinity.com/benji-880744676-large.jpg", 
-	"url": "https://www.youtube.com/watch?v=v_7Zt0n6CYg&list=PLaI8tcGP-lUuKdCQKgGzA1DW3vLn4tdqJ&index=29",
+	"url": "https://filemoon.to/d/re8v3hntwfjd/Benji",
       	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
@@ -150,7 +150,18 @@
 	"name": "BLANCANIEVES",
 	"info": "2025",
 	"image": "https://pics.filmaffinity.com/snow_white-841837411-large.jpg", 
-	"url": "https://filemoon.to/d/pv9tebiraiy6/Blancanieves__2025__pelicula_castellano.mp4",
+	"url": "https://filemoon.to/d/zfnwv11egrpw/Blancanieves",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+{ 
+	"name": "BLANCANIEVES Y LOS 7 ENANITOS",
+	"info": "2025",
+	"image": "https://hdfullcdn.cc/tthumb/172x256/movie_4cd2ba0b7c61bd75633bcd30c3db74b7.jpg", 
+	"url": "https://filemoon.to/d/zfnwv11egrpw/Blancanieves",
       	"userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
@@ -182,19 +193,8 @@
 	{
 	"name": "CABALLEROS DEL ZODIACO, LOS",
 	"info": "2023",
-	"url": "https://vk.com/video791649042_456239379",
+	"url": "https://filemoon.to/d/160b6pxu5873/Los_Caballeros_del_Zodiaco",
 	"image": "https://i.postimg.cc/yxQQ5Yhv/Caballero-del-Zodiaco-20223-Pelicula-infantil.jpg",
-      	"userAgent": "PlusMediaPlayer/0.0.9",
-	"embed":"",
-	"isHost":"true",
-	"online":"true",
-	"import": false
-	},
-	{
-	"name": "CAMINO A LA LIBERTAD",
-	"info": "2022",
-	"url": "https://upstream.to/titpdcr9b4c7",
-	"image": "https://i.postimg.cc/mr1vngsC/Camino-a-la-libertad-2022-Pelicula-infantil.jpg",
       	"userAgent": "PlusMediaPlayer/0.0.9",
 	"embed":"",
 	"isHost":"true",
@@ -2441,6 +2441,7 @@
 
     ]
 }  
+
 
 
 
