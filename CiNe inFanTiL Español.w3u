@@ -237,7 +237,7 @@
 	{
        	"name": "CHICKEN RUN, AMANECER DE LOS NUGGETS",
         "image": "https://pics.filmaffinity.com/chicken_run_dawn_of_the_nugget-363717549-large.jpg",
-        "url": "https://upstream.to/f1ky3dngts8j",
+        "url": "https://filemoon.to/d/kbhald5fyrhh/CHICKEN_RUN__AMANECER_DE_LOS_NUGGETS.mp4",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
@@ -249,7 +249,7 @@
         "name": "CHIP Y CHOP, LOS GUARDIANES RESCATADORES",
         "info":"2022",
         "image": "https://i.postimg.cc/c4653Wzf/Chip-y-Chop-los-guardianes-rescatadores-2022-pelicula-infantil.jpg",
-        "url":"https://upstream.to/fnbj3d83na3d",
+        "url":"https://filemoon.to/d/tt6mddtyom7i/CHIP_Y_CHOP__LOS_GUARDIANES_RESCATADORES.mp4",
         "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost":"true",
         "online":"true",
@@ -258,19 +258,19 @@
 		{
        	"name": "CITA DE CARL, LA",
         "image": "https://pics.filmaffinity.com/carl_s_date-774225557-large.jpg",
-        "url": "https://upstream.to/1i06ug36loob",
+        "url": "https://filemoon.to/d/d2z2fdhvx89d/La_cita_de_Carl.mp4",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
        	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
+	    "userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
        	{
         "name": "COCO",
         "info":"2018",
         "image": "https://i.postimg.cc/MHC7T24X/Coco-2017-Pelicula-infantil.jpg",
-        "url":"https://upstream.to/95h5vdr6hseo",
+        "url":"https://filemoon.to/d/x1vcosfc63al/Coco.mp4",
         "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost":"true",
         "online":"true",
@@ -291,7 +291,7 @@
 	{
        	"name": "CONEJO DE TERCIOPELO, EL",
         "image": "https://pics.filmaffinity.com/the_velveteen_rabbit-168581418-large.jpg",
-        "url": "https://upstream.to/zpkwko0k3125",
+        "url": "https://filemoon.to/d/9s6g0u0c4plf/El_conejo_de_terciopelo.mp4",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
@@ -299,17 +299,7 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-	{
-       	"name": "COPPELIA",
-        "image": "https://pics.filmaffinity.com/coppelia-612414923-large.jpg",
-        "url": "https://upstream.to/59mkjvj5euot",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
+
 {
 "name": "CRETINOS, LOS",
 "image": "https://pics.filmaffinity.com/the_twits-161255490-large.jpg",
@@ -2441,6 +2431,7 @@
 
     ]
 }  
+
 
 
 
