@@ -563,17 +563,6 @@
         "online":"true",
         "import": false
 	},
-	{
-       	"name": "FAMILIA DE SUPERHEROES, UNA",
-        "image": "https://pics.filmaffinity.com/helt_super-943294400-large.jpg",
-        "url": "https://upstream.to/r9ma9r3576bw",
-       	"info": "2023",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
     {
       "name": "FAMILIA MONSTRUOSA, UNA",
       "image": "https://pics.filmaffinity.com/my_freaky_family-209278332-large.jpg",
@@ -587,7 +576,7 @@
       "import": false
     },
 	{
-        "name": "FLASH, THE",
+        "name": "FLASH",
 	"info": "2023",
 	"image": "https://i.postimg.cc/4dbSmz7y/the-flash.jpg", 
 	"url": "https://upstream.to/32nmremehty3",
@@ -2494,6 +2483,7 @@
 
     ]
 }  
+
 
 
 
