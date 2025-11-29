@@ -892,17 +892,6 @@
 	"import": false
 	},
 	{
-       	"name": "INCIDENTE ALIENIGENA DEL PEQUEÑO ALAN, EL",
-       	"image": "https://pics.filmaffinity.com/lille_allan_den_menneskelige_antenne-791714557-large.jpg",
-       	"url": "https://upstream.to/7n6i57hiibt1",
-	"info": "2022",
-     	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-	{
         "name": "INCREIBLES, LOS",
         "info":"2004",
         "image": "https://i.postimg.cc/VL9PRG45/Increibles-Los-2004-Pelicula-infantil.jpg",
@@ -2483,6 +2472,7 @@
 
     ]
 }  
+
 
 
 
