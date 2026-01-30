@@ -681,6 +681,17 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+{
+	      "name": "Guardián de las palabras, El",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/6JxLK3MovksubEL7xmPaW1jeQVT.jpg",
+        "url": "https://byseraguci.com/d/ur5jjjdgik2n",
+       	"info": "[Español 1994]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
 	      {
 	      "name": "Gru 1, MI VILLANO FAVORITO",
         "image": "https://pics.filmaffinity.com/despicable_me-886797392-large.jpg",
@@ -2706,6 +2717,7 @@
 
     ]
 }  
+
 
 
 
