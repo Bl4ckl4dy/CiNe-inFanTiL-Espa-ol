@@ -1268,6 +1268,15 @@
         "isHost":"true",
         "online":"true"
 	},
+{
+        "name": "Lilo y Stitch",
+        "info":"2025",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/4oLLOAT55JhAoe73VliaSKFvEEr.jpg",
+        "url":"https://byseqekaho.com/d/y5bdb9bsez40/lilo-y-stitch",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+	},
 	{
         "name": "LILO, MI AMIGO EL COCODRILO",
         "info":"2022",
@@ -2697,6 +2706,7 @@
 
     ]
 }  
+
 
 
 
