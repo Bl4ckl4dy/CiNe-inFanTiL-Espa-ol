@@ -2140,6 +2140,17 @@
        	"online":"true",
        	"import": false
         },
+{ 
+        "name": "SECRETO DEL HERRERILLO, EL",
+	"info": "2025",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/qeUml9sUWdFAuoWPzuquB8w5RS6.jpg", 
+        "url": "https://byseraguci.com/d/qig2fs4bknij/el-secreto-del-herrerillo",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+      	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+        },
 	{ 
 	"name": "SHAZAM LA FURIA DE LOS DIOSES",
 	"info": "2023",
