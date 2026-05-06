@@ -682,6 +682,17 @@
        	"import": false
        	},
 {
+"name": " GOAT: Como cabras",
+"image": "https://pics.filmaffinity.com/goat-364689310-mmed.jpg",
+"url": "https://pixeldrain.net/u/quoMZWsC",
+"info": "[2026]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false},
+{
 	      "name": "Guardián de las palabras, El",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/6JxLK3MovksubEL7xmPaW1jeQVT.jpg",
         "url": "https://byseraguci.com/d/ur5jjjdgik2n",
@@ -1999,6 +2010,17 @@
        	"isHost":"true",
        	"online":"true" 
 	},
+{
+"name": "Rey de Reyes, El",
+"image": "https://pics.filmaffinity.com/the_king_of_kings-104943300-msmall.jpg",
+"url": "https://pixeldrain.net/u/GRAtu9Vx",
+"info": "[2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true"
+},
 	{
 	"name": "REY LEON",
        	"image": "https://pics.filmaffinity.com/the_lion_king-357729583-large.jpg",
