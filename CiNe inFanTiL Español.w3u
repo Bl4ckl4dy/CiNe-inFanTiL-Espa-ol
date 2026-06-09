@@ -16,7 +16,7 @@
         "info": "[2024]",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -28,7 +28,7 @@
         "info": "2015",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -40,7 +40,7 @@
 	"url": "https://pixeldrain.net/u/GgMsBAX3",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -52,7 +52,7 @@
 	"url": "https://uqload.com/gdc85iaxxcad.html",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -63,7 +63,7 @@
 	"image": "https://i.postimg.cc/d3zqwT3F/Angry-Birds-2012-Pelicula-infantil.jpg", 
 	"url": "https://filemoon.to/d/41up3d9vfxka/Angry_Birds_La_pel_cula",
       	"userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -74,7 +74,7 @@
 	"image": "https://i.postimg.cc/cLgMTvVS/Angry-Birds-2-2019-Pelicula-infantil.jpg", 
 	"url": "https://filemoon.to/d/vvvuwsgskbi7/Angry_Birds_2",
       	"userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -85,7 +85,7 @@
         "url": "https://filemoon.to/d/34niy18gz5r0/Las_aventuras_de_Maurice",
         "info": "[2022]",
       	"userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -96,7 +96,7 @@
         "url": "https://filemoon.to/d/h3vwmnpe7q2e/Ast_rix_y_Ob_lix_El_reino_medio",
         "info": "2023",
       	"userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -107,7 +107,7 @@
 	"image": "https://i.postimg.cc/x8yG77BY/Barbie-Skipper-y-su-gran-aventura-como-canguro-2023-Pelicula-familiar.jpg", 
 	"url": "https://filemoon.to/d/rwwyny4amp4g/Barbie_Skipper_y_su_gran_aventura_como_canguro",
       	"userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -118,7 +118,7 @@
 	"image": "https://i.postimg.cc/2yC2Z2Bn/Batman-vs-Dos-Caras-2017-Pelicula-familiar.jpg", 
 	"url": "https://filemoon.to/d/bvh6fihff33b/Batman_vs._dos_caras",
       	"userAgent": "PlusMediaPlayer/0.0.9",
-        "embed": "",
+        "embed": "true",
         "isHost": "true",
         "online": "true",
         "import": false
@@ -130,7 +130,7 @@
         "info": "2024",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -141,7 +141,7 @@
 	"image": "https://pics.filmaffinity.com/benji-880744676-large.jpg", 
 	"url": "https://filemoon.to/d/re8v3hntwfjd/Benji",
       	"userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -152,7 +152,7 @@
 	"image": "https://pics.filmaffinity.com/snow_white-841837411-large.jpg", 
 	"url": "https://pixeldrain.net/u/a7uKkNDg",
       	"userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -163,7 +163,7 @@
 	"image": "https://pics.filmaffinity.com/Bob_Esponja_Un_h_roe_al_rescate-830044791-large.jpg", 
 	"url": "https://uqload.com/rw6nyupresw3.html",
       	"userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -174,7 +174,7 @@
 	"url": "https://filemoon.to/d/fdvne4wb6cay/Buffalo_kids__2024__Pelicula_infantil_espa_ol.mp4",
 	"info": "2024",
       	"userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -185,7 +185,7 @@
 	"url": "https://pixeldrain.net/u/tiUWycqb",
 	"image": "https://i.postimg.cc/yxQQ5Yhv/Caballero-del-Zodiaco-20223-Pelicula-infantil.jpg",
       	"userAgent": "PlusMediaPlayer/0.0.9",
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -196,7 +196,7 @@
 	"image": "https://i.postimg.cc/CKNLPTk2/91e05q-Nz-GUL-AC-UF1000-1000-QL80.jpg", 
 	"url": "https://filemoon.to/d/vh2zgugi5mxg",
       	"userAgent": "PlusMediaPlayer/0.0.9",
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -207,7 +207,7 @@
 	"image": "https://i.postimg.cc/8C2dkvjW/a-Canta-2-390779703-large.jpg", 
 	"url": "https://filemoon.to/d/3sv9gy4uaqth/Canta_2.mp4",
       	"userAgent": "PlusMediaPlayer/0.0.9",
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -219,7 +219,7 @@
 "info": "[2025][Comedia, Familiar]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false},
@@ -230,7 +230,7 @@
 	"url": "https://filemoon.to/d/kcuyj25dn5ox/El_Cascanueces__2010__Pelicula_infantil_espa_ol.mkv",
 	"info": "2010",
       	"userAgent": "PlusMediaPlayer/0.0.9",
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -240,7 +240,7 @@
         "image": "https://pics.filmaffinity.com/chicken_run_dawn_of_the_nugget-363717549-large.jpg",
         "url": "https://filemoon.to/d/kbhald5fyrhh/CHICKEN_RUN__AMANECER_DE_LOS_NUGGETS.mp4",
        	"info": "2023",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -261,7 +261,7 @@
         "image": "https://pics.filmaffinity.com/carl_s_date-774225557-large.jpg",
         "url": "https://filemoon.to/d/d2z2fdhvx89d/La_cita_de_Carl.mp4",
        	"info": "2023",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	    "userAgent":"PlusMediaPlayer/0.0.9",
@@ -284,7 +284,7 @@
         "info": "[2025]",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -294,7 +294,7 @@
         "image": "https://pics.filmaffinity.com/the_velveteen_rabbit-168581418-large.jpg",
         "url": "https://filemoon.to/d/9s6g0u0c4plf/El_conejo_de_terciopelo.mp4",
        	"info": "2023",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -308,7 +308,7 @@
 "info": "[2025][Animación Comedia Familia Fantasía]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -391,7 +391,7 @@
        	"url": "https://filemoon.to/d/0bp2at1gvrqo/Dr._Dolittle.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"info":"1998",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -402,7 +402,7 @@
        	"url": "https://filemoon.to/d/wukt194tg6ba/Dr._Dolittle_2.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"info":"2001",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -413,7 +413,7 @@
        	"url": "https://filemoon.to/d/myd0xpxmp3mr/Dr._Dolittle_3.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"info":"2006",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -424,7 +424,7 @@
        	"url": "https://filemoon.to/d/jge9lvzjm0nq/Dr._Dolittle_4.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"info":"2008",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -435,7 +435,7 @@
        	"url": "https://filemoon.to/d/ypzbuoaarowr/Dr._Dolittle_5_El_perro_del_mill_n_de_d_lares.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"info":"2009",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -446,7 +446,7 @@
        	"url": "https://filemoon.to/d/u4l2p5l76fbn/Las_aventuras_del_Doctor_Dolittle.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"info":"2020",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -468,7 +468,7 @@
 	"image": "https://i.postimg.cc/VkxPtGvX/Elefanta-del-mago-La-2023-Pelicula-familiar.jpg", 
 	"url": "https://filemoon.to/d/7l1fe7a1gwk9/La_elefanta_del_mago.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -479,7 +479,7 @@
 	"image": "https://i.postimg.cc/44623sKk/Elemental-2023-Pelicula-infantil.jpg", 
 	"url": "https://filemoon.to/d/dwttnme06hw8/ELEMENTAL.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -502,7 +502,7 @@
 	"image": "https://i.postimg.cc/1zLpYn7w/Encanto-2021-Pelicual-infantil.jpg", 
 	"url": "https://uqload.com/kocym15g7ssi.html",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -514,7 +514,7 @@
 "info": "[2025]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -525,7 +525,7 @@
 	"image": "https://pics.filmaffinity.com/die_schule_der_magischen_tiere-747697492-large.jpg", 
 	"url": "https://filemoon.to/d/uu4jsoxrlqtd/Ver_La_escuela_de_animales_m_gicos_Online_Castellano_2021_Castellano_-_HDFull.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -536,7 +536,7 @@
 	"image": "https://i.postimg.cc/wj0YHCMK/Espada-de-los-47-Ronin-La-2022-Pelicula-familiar.jpg", 
 	"url": "https://filemoon.to/d/qz1gpodbnc7m/La_espada_de_los_47_ronin.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -547,7 +547,7 @@
 	"image": "https://i.postimg.cc/15nL2hY1/Espias-con-disfraz-2019-Pelicula-infantil.jpg", 
 	"url": "https://filemoon.to/d/1qwx2pdii6za/ESPIAS_CON_DISFRAZ.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -555,9 +555,9 @@
     {
       "name": "FAMILIA MONSTRUOSA, UNA",
       "image": "https://pics.filmaffinity.com/my_freaky_family-209278332-large.jpg",
-      "url": "https://byseraguci.com/d/9jrhk5w0v56y/una-familia-monstruosa",
+      "url": "https://byseraguci.com/e/9jrhk5w0v56y/una-familia-monstruosa",
       "info": "[2024][Animacion Fantasia]",
-      "embed": "",
+      "embed": "true",
       "referer": "",
       "isHost": "true",
       "online": "true",
@@ -569,7 +569,7 @@
 	"info": "2023",
 	"image": "https://i.postimg.cc/4dbSmz7y/the-flash.jpg", 
 	"url": "https://filemoon.to/d/b0v6zxluk536/Flash",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -580,7 +580,7 @@
 	"image": "https://pics.filmaffinity.com/flow-382508168-large.jpg", 
 	"url": "https://filemoon.to/d/lfslpp0ujwsw/Ver_flow_2024_Pelicula_esp_1080p_mp4.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -591,7 +591,7 @@
         "image": "https://i.postimg.cc/tC7y6Lyq/Ferdinand-2017-Pelicula-infantil.png", 
         "url": "https://filemoon.to/d/yq1nhq3e3jg3",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -599,11 +599,11 @@
 {
 "name": " Frankie y los monstruos",
 "image": "https://pics.filmaffinity.com/stitch_head-733865709-mmed.jpg",
-"url": "https://byseraguci.com/d/imkshc83vghk",
+"url": "https://byseraguci.com/e/imkshc83vghk",
 "info": "[2025]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -614,7 +614,7 @@
         "image": "https://i.postimg.cc/vTXTWvQv/Frozen-2013-Pelicula-infantil.jpg", 
         "url": "https://filemoon.to/d/jgj3z9uz8vfy/Ver_Frozen_reino_del_hielo_2013_Pelicula_infantil_Castellano_mkv.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -625,7 +625,7 @@
         "image": "https://i.postimg.cc/7YsbhXtH/Frozen-2-2019-Pelicula-infantil.jpg", 
         "url": "https://filemoon.to/d/sn5orvgf00i7/Ver_Frozen_2_2019_Pelicula_infantil_Castellano_avi.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -636,7 +636,7 @@
         "url": "https://filemoon.to/d/u4yjszs8n1no/Futbolin__Metegol__2013_Pelicula_infantil.mp4",
 	"info": "2013", 
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -647,7 +647,7 @@
 	"image": "https://pics.filmaffinity.com/La_gallina_Turuleca-543555397-large.jpg", 
 	"url": "https://uqload.com/2o2hbn3lm06n.html",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true"     
 	},
@@ -657,7 +657,7 @@
 	"image": "https://i.postimg.cc/XJ6cVhYn/Gato-con-botas-el-ultimo-deseo-2022-Pelicula-familiar.jpg", 
 	"url": "https://filemoon.to/d/8ctv6i0zi5c4/El_gato_con_botas_El__ltimo_deseo",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true"     
 	},
@@ -667,7 +667,7 @@
 	"url": "https://filemoon.to/d/fh2wbs1arqw9/El_gato_Tabby_y_otras_historias_felinas",
 	"info": "2024",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true"     
 	},
@@ -676,7 +676,7 @@
         "image": "https://pics.filmaffinity.com/cats_don_t_dance-424188979-large.jpg",
         "url": "https://filemoon.to/d/k0ehnzm8vxgh/Los_gatos_no_bailan",
        	"info": "1997",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -689,16 +689,16 @@
 "info": "[2026]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false},
 {
 	      "name": "Guardián de las palabras, El",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/6JxLK3MovksubEL7xmPaW1jeQVT.jpg",
-        "url": "https://byseraguci.com/d/ur5jjjdgik2n",
+        "url": "https://byseraguci.com/e/ur5jjjdgik2n",
        	"info": "[Español 1994]",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
         "userAgent":"PlusMediaPlayer/0.0.9",
@@ -707,9 +707,9 @@
 	      {
 	      "name": "Gru 1, MI VILLANO FAVORITO",
         "image": "https://pics.filmaffinity.com/despicable_me-886797392-large.jpg",
-        "url": "https://byseraguci.com/d/dt4lza2v8dl7/gru-mi-villano-favorito",
+        "url": "https://byseraguci.com/e/dt4lza2v8dl7/gru-mi-villano-favorito",
        	"info": "[Español 2010]",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
         "userAgent":"PlusMediaPlayer/0.0.9",
@@ -718,9 +718,9 @@
 	      {
 	      "name": "Gru 2, MI VILLANO FAVORITO",
         "image": "https://pics.filmaffinity.com/despicable_me_2-759105201-large.jpg",
-        "url": "https://byseraguci.com/d/27yfc7wsgfar/gru-2-mi-villano-favorito",
+        "url": "https://byseraguci.com/e/27yfc7wsgfar/gru-2-mi-villano-favorito",
        	"info": "[Español 2013]",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
         "userAgent":"PlusMediaPlayer/0.0.9",
@@ -729,9 +729,9 @@
 	      {
 	      "name": "Gru 3, MI VILLANO FAVORITO",
         "image": "https://pics.filmaffinity.com/despicable_me_3-647183530-large.jpg",
-        "url": "https://byseraguci.com/d/p5yhy2qyazqk/gru-3-mi-villano-favorito",
+        "url": "https://byseraguci.com/e/p5yhy2qyazqk/gru-3-mi-villano-favorito",
        	"info": "[Español 2017]",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
         "userAgent":"PlusMediaPlayer/0.0.9",
@@ -740,9 +740,9 @@
 	      {
 	      "name": "Gru 4, MI VILLANO FAVORITO",
         "image": "https://pics.filmaffinity.com/despicable_me_4-802312771-large.jpg",
-        "url": "https://byseraguci.com/d/457symdo4r1u/mi-villano-favorito-4",
+        "url": "https://byseraguci.com/e/457symdo4r1u/mi-villano-favorito-4",
        	"info": "[Español 2024]",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
         "userAgent":"PlusMediaPlayer/0.0.9",
@@ -753,7 +753,7 @@
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_e9b38fa03a4be41dfdc2c5db6d284087.jpg",
         "url": "https://filemoon.to/d/zcx2nodla8tl/Minions_El_origen_de_Gru",
        	"info": "[Español 2024]",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
         "userAgent":"PlusMediaPlayer/0.0.9",
@@ -764,7 +764,7 @@
         "info":"2024",
         "image": "https://pics.filmaffinity.com/dragonkeeper_guardiana_de_dragones-704965977-large.jpg",
         "url":"https://filemoon.to/d/8l37d8nywrsd/Dragonkeeper__Guardiana_de_dragones_.mp4",
-	"embed":"",
+	"embed": "true",
         "isHost":"true",
         "online":"true" 
 	},	
@@ -772,8 +772,8 @@
         "name": "GUARDIANES DE LA GALAXIA 1, LOS",
         "info":"2014",
         "image": "https://i.postimg.cc/fyRZmyTK/Guardianes-de-la-galaxia-2014-Pelicula-infantil.jpg",
-        "url":"https://byseraguci.com/d/2b7suwn5cni8/guardianes-de-la-galaxia",
-	"embed":"",
+        "url":"https://byseraguci.com/e/2b7suwn5cni8/guardianes-de-la-galaxia",
+	"embed": "true",
         "isHost":"true",
         "online":"true" 
 	},	
@@ -781,8 +781,8 @@
         "name": "GUARDIANES DE LA GALAXIA 2, LOS",
         "info":"2017",
         "image": "https://i.postimg.cc/pXDbrKZH/Guardianes-de-la-galaxia-2-2017-Pelicula-infantil.jpg",
-        "url":"https://byseraguci.com/d/qyl024rlusrp/guardianes-de-la-galaxia-vol-2",
-	"embed":"",
+        "url":"https://byseraguci.com/e/qyl024rlusrp/guardianes-de-la-galaxia-vol-2",
+	"embed": "true",
         "isHost":"true",
         "online":"true" 
 	},
@@ -790,8 +790,8 @@
         "name": "GUARDIANES DE LA GALAXIA, LOS [Especial Navidad]",
         "info":"2022",
         "image": "https://i.postimg.cc/qMrDmS8P/Guardianes-de-la-Galaxia-Especial-Navidad-2022-Pelicula-infantil.jpg",
-        "url":"https://byseraguci.com/d/kbf56bfy7iv1/guardianes-de-la-galaxia-especial-felices-fiestas",
-	"embed":"",
+        "url":"https://byseraguci.com/e/kbf56bfy7iv1/guardianes-de-la-galaxia-especial-felices-fiestas",
+	"embed": "true",
         "isHost":"true",
         "online":"true" 
 	},		
@@ -799,19 +799,19 @@
         "name": "GUARDIANES DE LA GALAXIA 3, LOS",
         "info":"2023",
         "image": "https://i.postimg.cc/4xL8x3rG/Guardianes-de-la-Galaxia-3-2023-Pelicula-infantil.jpg",
-        "url":"https://byseraguci.com/d/a5x9spbe54pz/guardianes-de-la-galaxia-volumen-3",
-	"embed":"",
+        "url":"https://byseraguci.com/e/a5x9spbe54pz/guardianes-de-la-galaxia-volumen-3",
+	"embed": "true",
         "isHost":"true",
         "online":"true" 
 	},
 {
 "name": "Ha llegado la nieve a Fraggle Rock",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/jBUDhU31nGEkEq8W3IIbrv6ct17.jpg",
-"url": "https://byseraguci.com/d/9ltypzudlain/ha-llegado-la-nieve-a-fraggle-rock",
+"url": "https://byseraguci.com/e/9ltypzudlain/ha-llegado-la-nieve-a-fraggle-rock",
 "info": "[2025][Comedia, familia]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -822,7 +822,7 @@
         "url":"https://filemoon.to/d/mo3qad6nbcn3/H_roes_de_Central_Park.mp4",
         "info":"2023",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-	"embed":"",
+	"embed": "true",
         "isHost":"true",
         "online":"true" 
 	},
@@ -832,7 +832,7 @@
         "url":"https://filemoon.to/d/u0qgdpw95o1a/Hilda_y_el_rey_de_la_monta_a__2021__Pelicula_infantil_espa_ol.mkv",
         "info":"2021",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-	"embed":"",
+	"embed": "true",
         "isHost":"true",
         "online":"true" 
 	},
@@ -842,18 +842,18 @@
         "url":"https://filemoon.to/d/rfl8wwmc0wzy/HOP__REBELDE_SIN_CAUSA.mp4",
         "info":"2011",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-	"embed":"",
+	"embed": "true",
         "isHost":"true",
         "online":"true" 
 	},
 {
 "name": " Hoppers  ",
 "image": "https://pics.filmaffinity.com/hoppers-343289386-msmall.jpg",
-"url": "https://byseraguci.com/d/g71lgmt1mx9t",
+"url": "https://byseraguci.com/e/g71lgmt1mx9t",
 "info": "[2026]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -863,7 +863,7 @@
 	"info": "2022",
 	"image": "https://i.postimg.cc/xT0JSwrv/I-caro-y-el-minotauro-2022-Pelicula-familiar.jpg", 
 	"url": "https://filemoon.to/d/c3xc1qmohilw/ICARO_Y_EL_MINOTAURO.mp4", 
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -873,7 +873,7 @@
 	"info": "2002",
 	"image": "https://pics.filmaffinity.com/ice_age-893441955-large.jpg", 
 	"url": "https://filemoon.to/d/wgsxr3nar6or/Ice_Age_La_edad_de_hielo.mp4", 
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -883,7 +883,7 @@
 	"info": "2006",
 	"image": "https://pics.filmaffinity.com/ice_age_2_the_meltdown-398503562-large.jpg", 
 	"url": "https://filemoon.to/d/xaceljd3qgt9/Ice_Age_2_El_deshielo.mp4", 
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -893,7 +893,7 @@
 	"info": "2009",
 	"image": "https://pics.filmaffinity.com/ice_age_dawn_of_the_dinosaurs_ice_age_3-898043670-large.jpg", 
 	"url": "https://filemoon.to/d/2130lju519le/Ice_Age_3_El_origen_de_los_dinosaurios.mp4", 
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -903,7 +903,7 @@
 	"info": "2012",
 	"image": "https://pics.filmaffinity.com/ice_age_continental_drift_ice_age_4-510028565-large.jpg", 
 	"url": "https://filemoon.to/d/facph3ajqoyq/Ice_Age_4_La_formaci_n_de_los_continentes.mp4", 
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -913,7 +913,7 @@
 	"info": "2016",
 	"image": "https://pics.filmaffinity.com/ice_age_collision_course_ice_age_5-789172711-large.jpg", 
 	"url": "https://filemoon.to/d/os84p61pjtmw/Ice_Age_El_gran_cataclismo.mp4", 
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -923,7 +923,7 @@
 	"info": "2016",
 	"image": "https://hdfullcdn.cc/tthumb/172x256/movie_e955edaece04a662ca1d25b469b513e4.jpg", 
 	"url": "https://filemoon.to/d/x27o24qagkta/Ice_Age_La_gran_b_squeda_de_Pascua.mp4", 
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -933,7 +933,7 @@
 	"info": "2022",
 	"image": "https://pics.filmaffinity.com/ice_age_the_last_adventure_of_scrat_the_end-527328293-large.jpg", 
 	"url": "https://filemoon.to/d/yn5zbi2m8dbv/Ice_Age_Las_aventuras_de_Buck.mp4", 
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -943,7 +943,7 @@
         "info":"2004",
         "image": "https://i.postimg.cc/VL9PRG45/Increibles-Los-2004-Pelicula-infantil.jpg",
         "url":"https://filemoon.to/d/0ygowm9y25nx/Los_incre_bles.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -952,7 +952,7 @@
         "info":"2022",
 	"image": "https://i.postimg.cc/QCx1yn1s/Increibles-2-Los-2022-Pelicula-infantil.jpg", 
 	"url": "https://filemoon.to/d/5qte2mow7giu/Los_Increibles_2.mp4", 
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
 	},
@@ -961,7 +961,7 @@
         "info":"2022",
 	"image": "https://i.postimg.cc/sD2cBC25/Inspector-Sun-y-la-maldicion-de-la-viuda-negra-2022-Pelicula-infantil.jpg", 
 	"url": "https://filemoon.to/d/ndd8bh1z7q7d/Inspector_Sun_y_la_maldici_n_de_la_viuda_negra.mp4", 
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
 	},
@@ -969,8 +969,8 @@
 	"name": "INTERCAMBIADOS (SWAPPED)",
         "info":"2026",
 	"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/i89vUDwNhAEWUZSFYITSiv1RIbK.jpg", 
-	"url": "https://byseraguci.com/d/4bh8it46wlsl/intercambiados", 
-        "embed":"",
+	"url": "https://byseraguci.com/e/4bh8it46wlsl/intercambiados", 
+        "embed": "true",
         "isHost":"true",
         "online":"true"
 	},
@@ -979,7 +979,7 @@
 	"info": "2017",
 	"image": "https://i.postimg.cc/Hsqr7J1f/Juguetes-guardianes-2017-Pelicula-familiar.jpg", 
 	"url": " https://filemoon.to/d/0cvvwak2x7kl/Juguetes_guardianes.mp4",
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -989,7 +989,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_e0a79dbe2ede4ab4f55790d45b29ec82.jpg",
         "url":"https://filemoon.to/d/b022b0bpscha/Jumanji.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -998,7 +998,7 @@
 	"info": "2019",
 	"image": "https://i.postimg.cc/85c07VQM/Jumanji-2019-Pelicula-infantil.jpg", 
 	"url": "https://filemoon.to/d/m9b7ajgmzuj8/Jumanji_siguiente_nivel.mp4",
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -1008,7 +1008,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/130x190/movie_137d4c8c5f35d256c8b4bfe0e78973df.jpg",
         "url":"https://zpjid.com/d/xvmdf9lbxja1",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1018,7 +1018,7 @@
         "url":"https://filemoon.to/d/v0y9na4eguyn/La_leyenda_de_Klaus.mp4",
         "info":"2019",
         "userAgent": "PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
 	},
@@ -1027,7 +1027,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_8e19c7a893dfe7462fd710fd99e36150.jpg",
         "url":"https://filemoon.to/d/7n3tohpa8wh3/Kung_Fu_Panda.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1036,7 +1036,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/130x190/movie_eaeba84dd0edcca8855e6ca39939f2f8.jpg",
         "url":"https://filemoon.to/d/yaa56ut3vyih/Kung_Fu_Panda_2.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1045,7 +1045,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/130x190/movie_9c59b176d468d4d1cdf38781d00f0068.jpg",
         "url":"https://filemoon.to/d/30ha6wsxrg64/Kung_Fu_Panda_3.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1063,7 +1063,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/130x190/movie_239a6863e1064e37f415f7b530ed14c5.jpg",
         "url":"https://filemoon.to/d/i7o4u8wtzqzg/Kung_Fu_Panda_Los_secretos_del_pergamino.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1072,7 +1072,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_97ae10f8d20a7ce895c2cbd41aaf7d59.jpg",
         "url":"https://filemoon.to/d/bkhon2enkvgq/Kung_Fu_Panda_Los_secretos_de_los_cinco_furiosos.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1081,7 +1081,7 @@
         "info":"2014",
         "image": "https://i.postimg.cc/QtBZV33d/Lego-La-pelicula-2014-Pelicula-infantil.jpg",
         "url":"https://filemoon.to/d/6wi023y18iv7/La_LEGO_pel_cula.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
 	},
@@ -1090,7 +1090,7 @@
         "info":"2019",
         "image": "https://i.postimg.cc/VL2rNfPd/Lego-2-La-pelicula-2019-Pelicula-inftantil.jpg",
         "url":"https://filemoon.to/d/gvmx6ifg7l88/La_LEGO_pel_cula_2.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
 	},
@@ -1099,7 +1099,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_a8beb5c39efcf3b36dd66fec3f16ae40.jpg",
         "url":"https://filemoon.to/d/pkdfduha3pff/Lego_Batman_La_pel_cula_-_El_regreso_de_los_superh_roes_de_DC.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1108,7 +1108,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_c2578ea96a3939bab6dbba7767e0fbc1.jpg",
         "url":"https://filemoon.to/d/4ak6b5b8s0si/LEGO_DC_Comics_Super_Heroes_Justice_League_vs._Bizarro_League.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1117,7 +1117,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_3188e13538aba5604b63d41958b38e8a.jpg",
         "url":"https://filemoon.to/d/abizdzsdmq68/la_liga_de_la_justicia_lego.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1126,7 +1126,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_ba90ce1f9c5e86f326d84f082f0c0246.jpg",
         "url":"https://filemoon.to/d/z33qsvhw4ht5/Lego_Scooby-Doo!_Haunted_Hollywood.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1135,7 +1135,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_a489e1b9a16fc04d7eb4d8ca340cf035.jpg",
         "url":"https://filemoon.to/d/b81ir3fagidh/LEGO_DC_Comics_Super_Heroes_Justice_League_Gotham_City_Breakout.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1144,7 +1144,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_8fbec18b6efe32fb13c71513ce95d19e.jpg",
         "url":"https://filemoon.to/d/i4iu2gwf8qkj/LEGO_Jurassic_World_The_Indominus_Escape.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1153,7 +1153,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_b4e734d9b64cf70e81c50238b0a532f4.jpg",
         "url":"https://filemoon.to/d/t16twyxyk864/LEGO_Frozen_Northern_Lights.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1162,7 +1162,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_045a433b3c28bf97cee69334595a96c7.jpg",
         "url":"https://filemoon.to/d/v9tquaajq620/Lego_Batman_La_pel_cula.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1171,7 +1171,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_01de7b439848165db14679f3d334c89c.jpg",
         "url":"https://filemoon.to/d/3lbn0ivlmd4r/Lego_Scooby-Doo!_Fiesta_en_la_playa_de_Blowout.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1180,7 +1180,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_dcf71400d3c0051b474ea7f9e7a17723.jpg",
         "url":"https://filemoon.to/d/tqwt89l0ls43/La_LEGO_Ninjago_pel_cula.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1189,7 +1189,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_0efb51c142720ec69c187871fd2a9b7f.jpg",
         "url":"https://filemoon.to/d/i41f4bjnwf4s/LEGO_Marvel_Super_Heroes_-_Guardians_of_the_Galaxy_The_Thanos_Threat.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1198,7 +1198,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_9984e86c692f063b6726f49f9e29b92d.jpg",
         "url":"https://filemoon.to/d/9i0202sbwsz8/Lego_DC__Shazam!_Magia_y_monstruos.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1207,7 +1207,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_0975bca227c3f9bd58466bf489182da7.jpg",
         "url":"https://filemoon.to/d/sc3iyybp8ytr/LEGO_Scooby_Doo_La_hora_del_caballero_tenebroso.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1216,7 +1216,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_c0e2388a27b1c85b81b97f94d5e94fec.jpg",
         "url":"https://filemoon.to/d/44ctftadcxxz/The_Lego_Star_Wars_Holiday_Special.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1225,7 +1225,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_0a56802966ebff5daa3e35efce91a9ca.jpg",
         "url":"https://filemoon.to/d/aj4c2bgzo4zj/LEGO_Star_Wars_Cuentos_escalofriantes.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1234,7 +1234,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_a2d7aa5f1c64d5d2f796fc7820c3523b.jpg",
         "url":"https://filemoon.to/d/twgof4olpwwr/LEGO_Star_Wars_Summer_Vacation.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1243,7 +1243,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_991c89895bb6ade5368f4bf9f8ff217b.jpg",
         "url":"https://filemoon.to/d/agoj0i1p6wj3/Lego_Friends_The_Next_Chapter_New_Beginnings.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1252,7 +1252,7 @@
         "info":"",
         "image": "https://hdfullcdn.cc/tthumb/172x256/movie_cac05225fcc981ce0453c2ca2f65d193.jpg",
         "url":"https://filemoon.to/d/nsbqemm56b3m/LEGO_Disney_Princess_Misi_n_castillo.mp4",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
          },
@@ -1263,7 +1263,7 @@
         "info": "[2025]",
         "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
         "referer": "",
-        "embed": "",
+        "embed": "true",
         "isHost": "true",
         "online": "true",
         "import": false
@@ -1273,7 +1273,7 @@
         "image": "https://pics.filmaffinity.com/lego_marvel_avengers_code_red-713992148-large.jpg",
         "url": "https://filemoon.to/d/5z1k9advs5ol/LEGO_Marvel_Avengers_Code_Red.mp4",
        	"info": "2023",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -1282,11 +1282,11 @@
 		{
         "name": "LEGO, PRINCESAS DISNEY. VILLANOS UNIDOS",
         "image": "https://pics.filmaffinity.com/lego_disney_princess_villains_unite-892104297-large.jpg",
-        "url": "https://byseraguci.com/d/fk57hg20b95m/lego-princesas-disney-villanos-unidos",
+        "url": "https://byseraguci.com/e/fk57hg20b95m/lego-princesas-disney-villanos-unidos",
         "info": "[2025]",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1296,7 +1296,7 @@
         "image": "https://pics.filmaffinity.com/leo-530546739-large.jpg",
         "url": "https://vidmoly.to/embed-348aco2saoqv.html",
        	"info": "2023",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9",
@@ -1308,7 +1308,7 @@
         "image": "https://i.postimg.cc/kX2RLNzZ/Lightyear-2022-Pelicula-infantil.jpg",
         "url":"https://upstream.to/srieybslskct",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
 	},
@@ -1318,7 +1318,7 @@
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/4oLLOAT55JhAoe73VliaSKFvEEr.jpg",
         "url":"https://byseqekaho.com/d/y5bdb9bsez40/lilo-y-stitch",
         "userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
 	},
@@ -1328,7 +1328,7 @@
         "image": "https://i.postimg.cc/kMQSy6rm/Lilo-mi-amigo-el-cocodrilo-2022-Pelicula-infantil.jpg",
         "url":"https://filemoon.to/d/duqmy3a2k7ol/Lilo_mi_amigo_cocodrilo__2022_Pelicula_infantil_.mp4",
 "userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
 	},
@@ -1338,7 +1338,7 @@
         "image": "https://i.postimg.cc/yNL4fmNg/Lincessa-Los-silencios-del-bosque-333067069-large.jpg",
         "url":"http://vidmoly.me/w/ep558an21kok",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
 	},
@@ -1349,7 +1349,7 @@
     "info": "[2025]",
     "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
     "referer": "",
-    "embed": "",
+    "embed": "true",
     "isHost": "true",
     "online": "true",
     "import": false
@@ -1360,7 +1360,7 @@
 	"image": "https://pics.filmaffinity.com/luca-907827591-large.jpg", 
 	"url": "https://filemoon.to/d/mt17kc4jrm0k/Luca_2021_Pelicula_Infantil.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
 	},
@@ -1378,7 +1378,7 @@
         "info":"2014",
         "image": "https://i.postimg.cc/52Zb6gqH/Malefica-2014-Pelicula-infantil.jpg",
         "url":"https://upstream.to/v7hokdcm4exd",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1387,18 +1387,18 @@
         "info":"2019",
         "image": "https://i.postimg.cc/j5M1Jd08/Malefica-maetra-del-mal-2019-Pelicula-infantil.jpg",
         "url":"https://upstream.to/5uklbcdj8w8g",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
 {
 "name": "Maravilloso Mago de Oz, El",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/fVczqW6x4AGmJVJnak6lyXC64hd.jpg",
-"url": "https://byseraguci.com/d/pcitocdraynf/el-maravilloso-mago-de-oz",
+"url": "https://byseraguci.com/e/pcitocdraynf/el-maravilloso-mago-de-oz",
 "info": "[2025][Fantasía, drama]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -1408,7 +1408,7 @@
 	"info": "2023",
 	"image": "https://i.postimg.cc/0Nt0ybnv/1681890042130.jpg", 
 	"url": "https://upstream.to/zjjrdvmjdue8",
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -1418,7 +1418,7 @@
 	"info": "2023",
 	"image": "https://i.postimg.cc/2SbJD3Jn/Mia-y-yo-La-leyenda-de-Centopia-121062208-large.jpg", 
 	"url": "https://upstream.to/oqqpvn6obj6w",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1428,7 +1428,7 @@
 	"info": "2021",
 	"image": "https://i.postimg.cc/J7F0swvK/Mickey-y-las-dos-brujas-2021-Pelicula-familiar.jpg", 
 	"url": "https://upstream.to/jos5bnvxvikf",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1439,7 +1439,7 @@
         "url":"https://filemoon.to/d/42uaazgpzeyw/Mickey_y_un_mont_n_de_navidades__2024__Pelicula_Infantil_espa_ol.mkv",
         "info":"2024",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1448,7 +1448,7 @@
         "info":"2022",
         "image": "https://i.postimg.cc/9f2jFsCb/Mighty-Express-Mighty-Trains-Race-2022-Pelicula-familiar.jpg",
         "url":"https://upstream.to/7kpt4i4us6f6",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1458,7 +1458,7 @@
 	"image": "https://pics.filmaffinity.com/minions-199956794-large.jpg", 
 	"url": "https://filemoon.to/d/2y3ctktoglwn/Minions__2015_Pelicula_.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1469,7 +1469,7 @@
 	"image": "https://i.postimg.cc/vBJCPHL5/Minions-el-origen-de-Gru-2022-Pelicula-infantil.jpg", 
 	"url": "https://filemoon.to/d/slbyjean43bu/Minions_Origen__2022_Pelicula_.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1480,7 +1480,7 @@
 	"image": "https://pics.filmaffinity.com/minions_more_1-972943007-large.jpg", 
 	"url": "https://filemoon.to/d/lmt3ae6w5uw4/Minions_y_sus_amigos_Volumen_1__2022_Pelicula_.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1491,7 +1491,7 @@
 	"image": "https://pics.filmaffinity.com/minions_more_2-712819410-large.jpg", 
 	"url": "https://filemoon.to/d/qk2fqzkzy8ao/Minions_y_sus_amigos_Volumen_2__2022_Pelicula_.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1503,7 +1503,7 @@
         "info": "2023",
 		"userAgent":"PlusMediaPlayer/0.0.9",
 		"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1515,7 +1515,7 @@
         "info": "2024",
 		"userAgent":"PlusMediaPlayer/0.0.9",
 		"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1526,7 +1526,7 @@
         "info":"2024",
         "url":"https://filemoon.to/d/j3u2naq90x4v/Moana_2_2024_Pelicula_Infantil_Latino_HDTS.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1536,18 +1536,18 @@
         "image": "https://i.postimg.cc/JtwzHHg8/Molly-Moon-y-el-increible-libro-del-hipnotismo-2015-Pelicula-infantil.jpg",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"url":"https://www.youtube.com/watch?v=BOtQNhsfAg4&list=PLaI8tcGP-lUuKdCQKgGzA1DW3vLn4tdqJ&index=31",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
 		{
         "name": "MOON, MI AMIGO PANDA",
         "image": "https://pics.filmaffinity.com/moon_le_panda-676271972-large.jpg",
-        "url": "https://byseraguci.com/d/yuwo39pg35tm/moon-mi-amigo-panda",
+        "url": "https://byseraguci.com/e/yuwo39pg35tm/moon-mi-amigo-panda",
         "info": "[2025][Aventura]",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1558,7 +1558,7 @@
         "info":"2024",
         "url":"https://filemoon.to/d/8f1jt1ok28y5/Musafa__el_rey_leon_2024_Pelicula_animada_castellano_720p_.mp4",
 		"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1569,7 +1569,7 @@
         "info": "2022",
 		"userAgent":"PlusMediaPlayer/0.0.9",
 		"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1579,7 +1579,7 @@
         "image": "https://pics.filmaffinity.com/merry_little_batman-682538291-large.jpg",
         "url": "https://upstream.to/jvz8r0ukn523",
        	"info": "2023",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -1588,11 +1588,11 @@
 		{
         "name": "NIKO, MAS ALLA DE LA AURORA BOREAL ",
         "image": "https://pics.filmaffinity.com/niko_beyond_the_northern_lights-726658539-large.jpg",
-        "url": "https://byseraguci.com/d/dd1bd7hudf5a",
+        "url": "https://byseraguci.com/e/dd1bd7hudf5a",
         "info": "2024",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1602,7 +1602,7 @@
         "info":"2023",
         "image": "https://i.postimg.cc/vTmt2gSM/Nimona-2023-Pelicula-infantil.jpg",
         "url":"https://upstream.to/5hs3ehbzvq6i",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1611,7 +1611,7 @@
         "info":"2019",
         "image": "https://pics.filmaffinity.com/kaiju_no_kodomo-677583801-large.jpg",
         "url":"https://embedv.net/v/JzkPxznwz04xbyd",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1619,8 +1619,8 @@
         "name": "NIÑOS LOBO, LOS",
         "info":"2012",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/ixTNHHU8Wx0F8V4NzGJaiRcl18F.jpg",
-        "url":"https://byseraguci.com/d/cqy58oo3n2oe/los-niños-lobo-2012",
-        "embed":"",
+        "url":"https://byseraguci.com/e/cqy58oo3n2oe/los-niños-lobo-2012",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1629,7 +1629,7 @@
         "image": "https://pics.filmaffinity.com/interdit_aux_chiens_et_aux_italiens-634203073-large.jpg",
         "url": "https://gamovideo.com/6j4miovz5mz4",
        	"info": "2023",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -1640,7 +1640,7 @@
         "info":"2021",
         "image": "https://i.postimg.cc/d0mnpyrx/Nos-volvemos-a-casa-2021-Pelicula-infantil.jpg",
         "url":"https://upstream.to/4qm824srb1p6",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1650,7 +1650,7 @@
         "image": "https://pics.filmaffinity.com/corpse_bride-106734407-large.jpg",
         "url":"https://filemoon.to/d/undbu4t3thwl",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1661,7 +1661,7 @@
         "image": "https://pics.filmaffinity.com/knor-708716381-large.jpg",
         "url": "https://upstream.to/eqsczz2yqdcw",
        	"info": "2022",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -1672,7 +1672,7 @@
         "info": "2021",
         "image": "https://pics.filmaffinity.com/the_ogglies-801780749-large.jpg",
         "url": "https://www.rtve.es/play/videos/cine-internacional/olchis-bienvenidos-pestilandia/6485960/",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1681,7 +1681,7 @@
         "info": "2000",
         "image": "https://i.postimg.cc/d17ntB1H/One-piece-la-pelicula-2000-Pelicula-infantil.jpg",
         "url": "https://upstream.to/7jptq9z5iwpo",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1690,7 +1690,7 @@
         "info": "2001",
         "image": "https://i.postimg.cc/L5DrjDtt/One-piece-aventura-en-la-isla-engranaje-2001-Pelicula-infantil.jpg",
         "url": "https://upstream.to/ak46dc9t6fm6",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1699,7 +1699,7 @@
         "info": "2002",
         "image": "https://i.postimg.cc/ZRMN0tgp/One-Piece-El-reino-de-Chopper-en-la-isla-de-los-animales-raros-2002-Pelicula-infantil.jpg",
         "url": "https://upstream.to/bdqq87q5cum6",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1708,7 +1708,7 @@
         "info": "2003",
         "image": "https://i.postimg.cc/ZqDPvdvW/One-Piece-La-aventura-sin-salida-2003-Pelicula-infantil.jpg",
         "url": "https://upstream.to/s0w7x6b4cd93",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1717,7 +1717,7 @@
         "info": "2004",
         "image": "https://i.postimg.cc/m2wm2hjH/One-Piece-La-maldici-n-de-la-espada-sagrada-2004-Pelicula-infantil.jpg",
         "url": "https://upstream.to/77irjuoxfdq2",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1726,7 +1726,7 @@
         "info": "2005",
         "image": "https://i.postimg.cc/nrsnV6bs/One-Piece-El-Bar-n-Omatsuri-y-la-Isla-de-los-Secretos-2005-Pelicula-infantil.jpg",
         "url": "https://upstream.to/cbekpf5tujdk06",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1735,7 +1735,7 @@
         "info": "2006",
         "image": "https://i.postimg.cc/zvmqBxJ0/One-Piece-El-gran-soldado-mec-nico-del-Castillo-Karakuri-2006-Pelicula-infantil.jpg",
         "url": "https://upstream.to/0e0oepgeo5c207",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1744,7 +1744,7 @@
         "info": "2007",
         "image": "https://i.postimg.cc/Wz7xv8tD/One-Piece-La-saga-de-Arabasta-Los-piratas-y-la-princesa-del-desierto-2007-Pelicula-infantil.jpg",
         "url": "https://upstream.to/cmpqxusfjqvq",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1753,7 +1753,7 @@
         "info": "2008",
         "image": "https://pics.filmaffinity.com/one_piece_episodo_obu_choppa_fuyu_ni_saku_kiseki_no_sakura-700109294-large.jpg",
         "url": "https://upstream.to/7xnu3b0lydyy",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1762,7 +1762,7 @@
         "info": "2009",
         "image": "https://pics.filmaffinity.com/one_piece_film_strong_world_one_piece_movie_10-291419495-large.jpg",
         "url": "https://upstream.to/ve1otmrinoqo",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1771,7 +1771,7 @@
         "info": "2011",
         "image": "https://pics.filmaffinity.com/wan_pisu_suri_di_mugiwara_cheisu_aka_one_piece_3d_mugiwara_chase_aka_straw_hat_chase-640579226-large.jpg",
         "url": "https://upstream.to/r0iocvmrry6i",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1780,7 +1780,7 @@
         "info": "2012",
         "image": "https://pics.filmaffinity.com/wan_pisu_firumu_zetto_one_piece_film_z-532087171-large.jpg",
         "url": "https://upstream.to/rqj12xtzwh4e",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1789,7 +1789,7 @@
         "info": "2016",
         "image": "https://pics.filmaffinity.com/hato_obu_gorudo-925529392-large.jpg",
         "url": "https://upstream.to/loevkhdrhlh2",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1798,7 +1798,7 @@
         "info": "2019",
         "image": "https://pics.filmaffinity.com/one_piece_stampede-255097694-large.jpg",
         "url": "https://upstream.to/avcjhmo5ny5z",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1807,7 +1807,7 @@
         "info": "2022",
         "image": "https://pics.filmaffinity.com/one_piece_film_red-407711303-large.jpg",
         "url": "https://upstream.to/my0e6sun64ew",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1816,7 +1816,7 @@
         "info": "2020",
         "image": "https://i.postimg.cc/pTB4B8RX/Onward-2020-Pelicula-infantil.jpg",
         "url": "https://upstream.to/kcjpcr4m1uka",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1825,7 +1825,7 @@
         "info": "2020",
         "image": "https://i.postimg.cc/pTB4B8RX/Onward-2020-Pelicula-infantil.jpg",
         "url": "https://upstream.to/uuuzw9i49q2q",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true"
         },
@@ -1836,7 +1836,7 @@
         "image": "https://pics.filmaffinity.com/the_paloni_show_halloween_special-150998982-large.jpg",
         "url": "https://vidmoly.to/embed-o697gek31dvo.html",
        	"info": "2022",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -1847,7 +1847,7 @@
         "image": "https://i.postimg.cc/KjzCTzcW/PAW-PATROL-LA-SUPER-PELICULA.png",
         "url": "https://upstream.to/yp9c32fiqax7",
        	"info": "2023",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -1858,7 +1858,7 @@
 	"info": "2013",
 	"image": "https://es.web.img2.acsta.net/pictures/21/06/07/13/39/2336288.jpg", 
 	"url": "https://upstream.to/whe6u40ap15b",
-        "embed":"",
+        "embed": "true",
         "online":"true",
 	"isHost":"true"
 	},
@@ -1868,7 +1868,7 @@
 	"image": "https://pics.filmaffinity.com/a_minecraft_movie-227832687-large.jpg", 
 	"url": "https://filemoon.to/d/g08ys5080jaf/Una_pel_cula_de_Minecraft__2025__pelicula_castellano.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
        	"import": false
@@ -1879,7 +1879,7 @@
         "url": "https://filemoon.sx/d/eic1j9uf205q",
        	"info": "1993",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
        	"import": false
@@ -1890,7 +1890,7 @@
         "url": "https://listeamed.net/v/4bQVOj3Q1Gm5wKm",
        	"info": "2023",
 		"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
        	"import": false
@@ -1902,7 +1902,7 @@
         "info": "[2025]",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1912,7 +1912,7 @@
         "image": "https://pics.filmaffinity.com/the_polar_express-375183738-large.jpg",
         "url": "https://filemoon.to/d/k2quvcqthkm9/Polar_express_2004_Pelicula_Infantil_esp_1080p_mp4.mp4",
        	"info": "2004",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -1923,7 +1923,7 @@
        	"image": "https://i.postimg.cc/jS5kSKYC/kt-Azb7-Ygf3hwq84t-OWXL8ox832k.jpg",
         "url": "https://upstream.to/2bqhzmmqblnp",
         "info":"2023",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1933,7 +1933,7 @@
 	"info": "2020",
 	"image": "https://i.postimg.cc/9f6Yq4B5/Princesa-Cisne-una-boda-real-2020-Pelicula-infantil.jpg", 
 	"url": "https://upstream.to/1snso05bxlef",
-        "embed":"",
+        "embed": "true",
         "online":"true",
 	"isHost":"true" 
 	},
@@ -1942,7 +1942,7 @@
 	"info": "2023",
 	"image": "https://i.postimg.cc/MKdW5DmK/photo-2023-07-28-20-11-32.jpg", 
 	"url": "http://vidmoly.me/w/y2gkj8ez10d8",
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -1954,7 +1954,7 @@
         "info": "2018",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -1964,7 +1964,7 @@
        	"info":"2006",
 	"image": "https://i.postimg.cc/MTq52szv/Rato-npolis-2006-Pelicula-familiar.jpg",
 	"url": "https://upstream.to/4t7xzngmvff1",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true"
 	},
@@ -1975,7 +1975,7 @@
 	"url": "https://filemoon.to/d/jnur24y8wgnk/Ratatouille",
 	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 	"referer": "",
-    "embed":"",
+    "embed": "true",
     "isHost":"true",
     "online":"true",
     "import": false
@@ -1985,7 +1985,7 @@
        	"info":"2022",
 	"image": "https://lumiere-a.akamaihd.net/v1/images/p_rayaandthelastdragon_es_06f8daf0.jpeg?region=0,0,540,810",
 	"url": "https://uqload.com/vxwtoglca1wo.html",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true"
 	},
@@ -1994,7 +1994,7 @@
        	"info":"2022",
        	"image": "https://i.postimg.cc/FRsgys7m/Red-2022-pelicula-infantil.jpg",
        	"url": "https://upstream.to/17492xzkezol",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true"
        	},
@@ -2003,7 +2003,7 @@
        	"info": "2022",
        	"image": "https://i.postimg.cc/Z512TJmM/Reno-911-2022-Pelicula-familiar.jpg",
        	"url": "https://upstream.to/twjtns55s7sk",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true"
        	},
@@ -2012,7 +2012,7 @@
        	"info": "2022",
        	"image": "https://i.postimg.cc/0jvcTWsM/Rescate-de-Ruby-El-2022-Pelicula-infantil.jpg",
        	"url": "https://upstream.to/s17r8idur2vm",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true"
        	},
@@ -2021,7 +2021,7 @@
 	"info": "2022",
 	"image": "https://www.broadwayworld.com/ezoimgfmt/cloudimages.broadwayworld.com/columnpiccloud/21661918419.jpg?ezimgfmt=rs:250x308/rscb26/ngcb26/notWebP", 
 	"url": "https://uqload.com/hxnrd9872kit.html",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true" 
 	},
@@ -2032,7 +2032,7 @@
 "info": "[2025]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true"
 },
@@ -2042,7 +2042,7 @@
        	"url": "https://filemoon.to/d/0kn6rs9uj6x4/El_Rey_Leon__2019__Pelicula_Infantil_espa_ol.mp4",
        	"info":"2019",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2052,7 +2052,7 @@
        	"image": "https://i.postimg.cc/K8sRScQf/El-Rey-Mono-232332190-large.jpg",
        	"url": "https://upstream.to/31de1yhemlgt",
        	"info":"2023",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2062,7 +2062,7 @@
 	"info": "2021",
 	"image": "https://pics.filmaffinity.com/Riverdance_La_aventura_animada-364708113-large.jpg", 
 	"url": "https://uqload.com/c8zwpszmbgbk.html",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true"  
 	},
@@ -2072,7 +2072,7 @@
 	"url": "https://filemoon.to/d/b6quce0kmb8o/Robot_salvaje__2024__Pelicula_espa_ol.mp4",
 	"info": "[Español 2024]",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true"
 	},
@@ -2082,7 +2082,7 @@
 	"image": "https://pics.filmaffinity.com/the_wild_robot-598191664-large.jpg", 
 	"url": "https://filemoon.to/d/36ulpl1k9jsi/Robot_salvaje__The_wild_robot___2024_.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true"
 	},
@@ -2092,7 +2092,7 @@
 	"image": "https://pics.filmaffinity.com/the_wild_robot-598191664-large.jpg", 
 	"url": "https://listeamed.net/v/8lKQxYQDoe7xDGY",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true"
 	},
@@ -2101,7 +2101,7 @@
 	"info": "2021",
 	"image": "https://lumiere-a.akamaihd.net/v1/images/image_d47d3d91.jpeg?region=0%2C0%2C540%2C810", 
 	"url": "https://uqload.com/qd7rs3bjvzri.html",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true"
 	},
@@ -2110,7 +2110,7 @@
 	"info": "2023",
         "image": "https://i.postimg.cc/Ssfx7dGN/Ruby-aventuras-de-una-Kraken-adolescente-2023-Pelicula-infantil.jpg", 
         "url": "https://upstream.to/jtq5rk8s8ybb", 
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true"
         },
@@ -2119,7 +2119,7 @@
 	"info": "2021",
         "image": "https://i.postimg.cc/rwfQYZd1/Rumble-Steve-y-la-liga-de-los-monstruos-2022-Pelicula-infantil.jpg", 
         "url": "https://upstream.to/pmb71up4gnhu", 
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true"
         },
@@ -2128,7 +2128,7 @@
 	"info": "2000",
 	"url": "https://filemoon.to/d/s5zvb1gfbpyp/Camino_al_Dorado_2000_Pelicula.mp4",
 	"image": "https://pics.filmaffinity.com/the_road_to_el_dorado-125281051-large.jpg",
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -2138,7 +2138,7 @@
 	"info": "2017",
         "image": "https://i.postimg.cc/G2Q4Z12X/Sahara-2018-Pelicula-infantil.jpg", 
         "url": "https://upstream.to/kvhdg5xhg1od",
-      	"embed":"",
+      	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2148,7 +2148,7 @@
 	"info": "2021",
         "image": "https://pics.filmaffinity.com/Salvar_el_rbol-146451372-large.jpg", 
         "url": "https://upstream.to/25ur4dlu1n5m",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2159,7 +2159,7 @@
         "url": "https://filemoon.to/d/bm61bmdgxkf5/Santa_Homer_2024_Pelicula_infantil_espa_ol__1080_.mp4",
 	"info": "2024",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2170,7 +2170,7 @@
         "image": "https://i.postimg.cc/cLsqfMFS/Scooby-Doo-y-Krypto-too-2023-Pelicula-familiar.jpg", 
         "url": "https://upstream.to/wbunwvn1ule7",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2181,7 +2181,7 @@
         "image": "https://i.postimg.cc/XqPZB27Z/Semanas-m-gicas-Las-HDRip-2023-Pelicula-familiar.jpg", 
         "url": "https://upstream.to/wmzedlllm75u",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-      	"embed":"",
+      	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2190,9 +2190,9 @@
         "name": "SECRETO DEL HERRERILLO, EL",
 	"info": "2025",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/qeUml9sUWdFAuoWPzuquB8w5RS6.jpg", 
-        "url": "https://byseraguci.com/d/qig2fs4bknij/el-secreto-del-herrerillo",
+        "url": "https://byseraguci.com/e/qig2fs4bknij/el-secreto-del-herrerillo",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-      	"embed":"",
+      	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2203,7 +2203,7 @@
 	"image": "https://i.postimg.cc/yd2Cw3mV/Shazam-La-furia-de-los-dioses-2023-Pelicula-infantil.jpg", 
 	"url": "https://upstream.to/mwgxg7ibh3qq",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2214,7 +2214,7 @@
 	"image": "https://i.postimg.cc/mkxNK1JL/La-Sirenita-1989-Pelicula-infantil.jpg", 
 	"url": "https://upstream.to/167mq1x5e8gu",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2225,7 +2225,7 @@
 	"image": "https://i.postimg.cc/MKmbrTDw/La-Sirenita-2-regreso-al-mar-2000-Pelicula-infantil.jpg", 
 	"url": "https://upstream.to/918n72ycb240",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2236,7 +2236,7 @@
 	"image": "https://i.postimg.cc/mrtYDSGZ/La-Sirenita-3-El-comienzo-de-Ariel-2008-Pelicula-infantil.jpg", 
 	"url": "https://upstream.to/46by0tcf7kk2",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2247,7 +2247,7 @@
 	"image": "https://i.postimg.cc/HkqjhZFs/Fr-EE7q-FWIAMd0sd.webp", 
 	"url": "https://upstream.to/sqoudyic3yak",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2255,9 +2255,9 @@
 		{
 		"name": "SNOOPY PRESENTA: POR LOS VIEJOS TIEMPOS",
        	"image": "https://pics.filmaffinity.com/for_auld_lang_syne-695377456-large.jpg",
-       	"url": "https://byseraguci.com/d/78glcoxndfz8/snoopy-presenta-por-los-viejos-tiempos",
+       	"url": "https://byseraguci.com/e/78glcoxndfz8/snoopy-presenta-por-los-viejos-tiempos",
 		"info": "[2021][]",
-		"embed": "",
+		"embed": "true",
 		"isHost": "true",
 		"online": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -2266,9 +2266,9 @@
 		{
 		"name": "SNOOPY PRESENTA: SON LAS PEQUEÑAS COSAS, CARLITOS",
        	"image": "https://pics.filmaffinity.com/it_s_the_small_things_charlie_brown-943102163-large.jpg",
-       	"url": "https://byseraguci.com/d/cay59t2fb63m/snoopy-presenta-son-las-peque%C3%B1as-cosas-carlitos",
+       	"url": "https://byseraguci.com/e/cay59t2fb63m/snoopy-presenta-son-las-peque%C3%B1as-cosas-carlitos",
 		"info": "[2022][]",
-		"embed": "",
+		"embed": "true",
 		"isHost": "true",
 		"online": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -2277,9 +2277,9 @@
 		{
 		"name": "SNOOPY PRESENTA: PARA MAMA (Y PAPA) CON AMOR",
        	"image": "https://pics.filmaffinity.com/to_mom_and_dad_with_love-159476049-large.jpg",
-       	"url": "https://byseraguci.com/d/m43wlrdmk431/snoopy-presenta-para-mam%C3%A1-y-pap%C3%A1-con-amor",
+       	"url": "https://byseraguci.com/e/m43wlrdmk431/snoopy-presenta-para-mam%C3%A1-y-pap%C3%A1-con-amor",
 		"info": "[2022][]",
-		"embed": "",
+		"embed": "true",
 		"isHost": "true",
 		"online": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -2288,9 +2288,9 @@
 		{
 		"name": "SNOOPY PRESENTA: EL COLE DE LUCY",
        	"image": "https://pics.filmaffinity.com/peanuts_lucy_s_school-692476070-large.jpg",
-       	"url": "https://byseraguci.com/d/dyb3k1r1q2uy/snoopy-presenta-el-cole-de-lucy",
+       	"url": "https://byseraguci.com/e/dyb3k1r1q2uy/snoopy-presenta-el-cole-de-lucy",
 		"info": "[2022][]",
-		"embed": "",
+		"embed": "true",
 		"isHost": "true",
 		"online": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -2299,9 +2299,9 @@
 		{
 		"name": "SNOOPY PRESENTA: LA UNICA E INIGUALABLE MARCIE",
        	"image": "https://pics.filmaffinity.com/snoopy_presents_one_of_a_kind_marcie-532086648-large.jpg",
-       	"url": "https://byseraguci.com/d/9y1po74mz883/snoopy-presenta-la-%C3%BAnica-e-inigualable-marcie",
+       	"url": "https://byseraguci.com/e/9y1po74mz883/snoopy-presenta-la-%C3%BAnica-e-inigualable-marcie",
 		"info": "[2023][]",
-		"embed": "",
+		"embed": "true",
 		"isHost": "true",
 		"online": "true",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -2310,11 +2310,11 @@
 		{
         "name": "SNOOPY PRESENTA: UN MUSICAL DE VERANO",
         "image": "https://pics.filmaffinity.com/snoopy_presents_a_summer_musical-505107405-large.jpg",
-        "url": "https://byseraguci.com/d/vx87s39358tw/snoopy-presenta-un-musical-veraniego",
+        "url": "https://byseraguci.com/e/vx87s39358tw/snoopy-presenta-un-musical-veraniego",
         "info": "[2025][Animación Familia Musical]",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2324,7 +2324,7 @@
 	"info": "2020",
 	"image": "https://i.postimg.cc/J0srRgzz/Sonic-la-pelicula-2020-Pelicula-infantil.jpg", 
 	"url": "https://upstream.to/wj9ojxofou6z",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2334,7 +2334,7 @@
 	"info": "2022",
 	"image": "https://i.postimg.cc/pXZHgRZJ/Sonic-2-la-pelicula-2022-Pelicula-infantil.jpg", 
 	"url": "https://upstream.to/5x0cd6cbdha5",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2345,7 +2345,7 @@
         "url": "https://filemoon.to/d/innoy8y3om2i/Space_Jam._Nuevas_Leyendas__2021__Pelicula_animacion_castellano.mp4",
 	"info": "2021",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2353,11 +2353,11 @@
 		{
         "name": "SPERMAGEDDON",
         "image": "https://pics.filmaffinity.com/spermageddon-392851024-large.jpg",
-        "url": "https://byseraguci.com/d/c5s19knw8rrl/spermageddon",
+        "url": "https://byseraguci.com/e/c5s19knw8rrl/spermageddon",
         "info": "[2025]",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2367,7 +2367,7 @@
 	"info": "2021",
 	"image": "https://i.postimg.cc/BQGrN4kj/Spin-2021-Pelicula-infantil.jpg", 
 	"url": "https://upstream.to/2rzn4r0k2x37",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2377,7 +2377,7 @@
 	"info": "2021",
 	"image": "https://i.postimg.cc/WbbPs08r/Spirit-indomable-2021-Pelicula-familiar.jpg", 
 	"url": "https://upstream.to/k23yj6iynlx5",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2389,7 +2389,7 @@
 "info": "[2023]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false},
@@ -2398,18 +2398,18 @@
        	"info":"2023",
        	"image": "https://i.postimg.cc/kXZtmTS8/Super-Mario-Bros-la-pelicula-2023-Pelicula-infantil.jpg",
        	"url":"https://filemoon.to/d/vvnjy0hdbg25",
-	"embed":"",
+	"embed": "true",
        	"isHost":"true",
        	"online":"true" 
 	},
 {
 "name": " Super Mario Galaxy, la película",
 "image": "https://media.themoviedb.org/t/p/w300_and_h450_face/4Js0gYWxuvTN6b8iAaSF1cSQzBs.jpg",
-"url": "https://byseraguci.com/d/woyqwem0k8m6",
+"url": "https://byseraguci.com/e/woyqwem0k8m6",
 "info": "[2026]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -2419,7 +2419,7 @@
        	"image": "https://pics.filmaffinity.com/super_monsters_once_upon_a_rhyme-387602828-large.jpg",
       	"url": "https://upstream.to/dslj0fcbjisd",
 	"info": "2021",
-	"embed": "",
+	"embed": "true",
 	"isHost": "true",
 	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -2430,7 +2430,7 @@
 	"info": "2020",
 	"image": "https://pics.filmaffinity.com/Super_Wombat-309829985-mmed.jpg",
 	"url": "https://upstream.to/67m1vumf7etj",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2440,7 +2440,7 @@
         "image": "https://pics.filmaffinity.com/the_swan_princess_far_longer_than_forever-287871452-large.jpg",
         "url": "https://upstream.to/9d3tzd08fgvp",
        	"info": "2023",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -2454,7 +2454,7 @@
 "info": "[2025][Animación Familia]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -2462,11 +2462,11 @@
 		{
         "name": "TIANA Y EL SAPO",
         "image": "https://pics.filmaffinity.com/the_princess_and_the_frog-688262583-large.jpg",
-        "url": "https://byseraguci.com/d/r0yyf7tjrx69/tiana-y-el-sapo",
+        "url": "https://byseraguci.com/e/r0yyf7tjrx69/tiana-y-el-sapo",
         "info": "[2009]",
 		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 		"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2476,7 +2476,7 @@
         "image": "https://pics.filmaffinity.com/the_bad_guys_a_very_bad_holiday-827975614-large.jpg",
         "url": "https://upstream.to/c0ahz5dvjzv5",
        	"info": "2023",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -2485,9 +2485,9 @@
 {
        	"name": "TOM Y JERRY, AVENTURA EN EL TIEMPO",
         "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/xqEtQuVW6077S6YhMsqhJS1hEJ0.jpg",
-        "url": "https://byseraguci.com/d/yr9u6tlw6rg1/tom-y-jerry-aventura-en-el-tiempo",
+        "url": "https://byseraguci.com/e/yr9u6tlw6rg1/tom-y-jerry-aventura-en-el-tiempo",
        	"info": "2025",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -2498,7 +2498,7 @@
         "image": "https://pics.filmaffinity.com/teenage_mutant_ninja_turtles_mutant_mayhem-718403565-large.jpg",
         "url": "https://upstream.to/atdq5buwkr1y",
        	"info": "2023",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
 	"userAgent":"PlusMediaPlayer/0.0.9",
@@ -2510,7 +2510,7 @@
         "image": "https://pics.filmaffinity.com/toy_story-626273371-large.jpg", 
         "url": "https://filemoon.to/d/v78a5xci1spp/Toy_Story_1995_espa_ol_DVDRip_avi.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2521,7 +2521,7 @@
         "image": "https://pics.filmaffinity.com/toy_story_2-506817944-large.jpg", 
         "url": "https://filemoon.to/d/g426wu6tzdtq/Toy_Story_2_Los_juguetes_vuelven_carga_1999_Castellano_mkv.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2532,7 +2532,7 @@
         "image": "https://pics.filmaffinity.com/toy_story_3-691147043-large.jpg", 
         "url": "https://filemoon.to/d/99rhzl9gpy63/Toy_Story_3_2010_castellano_HDRip_avi.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2543,7 +2543,7 @@
         "image": "https://pics.filmaffinity.com/disney_pixar_s_toy_story_of_terror-524873834-large.jpg", 
         "url": "https://filemoon.to/d/r4ir9f6m93s7/Toy_Story__Terror!_2013_Online_Castellano_HD_-_HDFull.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2554,7 +2554,7 @@
         "image": "https://pics.filmaffinity.com/toy_story_that_time_forgot-472377907-large.jpg", 
         "url": "https://filemoon.to/d/qhidlfvhea92/Toy_Story_Tiempo_Perdido_2014_esp_dvdrip_mp4.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2565,7 +2565,7 @@
         "image": "https://pics.filmaffinity.com/toy_story_4-462756582-large.jpg", 
         "url": "https://filemoon.to/d/chupcy72ue93/Toy_Story_4_2019_1080p_Cast_mkv.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2576,7 +2576,7 @@
 	"info": "2016",
         "url": "https://filemoon.to/d/gadu6hzx119c/Trolls_1_2016_Castellano_mkv.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2587,7 +2587,7 @@
 	"info": "2017",
         "url": "https://filemoon.to/d/anzq113ante5/Trolls_Dias_fiesta_Especial_2017_castellano_DVDR_avi.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2598,7 +2598,7 @@
 	"info": "2020",
         "url": "https://filemoon.to/d/7to27rbxgkrc/Trolls_2_world_tour_2020_esp_720p_mp4.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2609,7 +2609,7 @@
 	"info": "2021",
         "url": "https://filemoon.to/d/uwxabufxdl95/Trolls_holiday_harmony_2021_lat_720p_mp4.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2620,7 +2620,7 @@
 	"info": "2023",
         "url": "https://filemoon.to/d/q1s97ed9321x/Trolls_3_Todos_Juntos_2023_1080p_Cast_mp4_2.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2633,7 +2633,7 @@
 	"url": "https://listeamed.net/v/ZMVoErookvqO9Pa",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2645,7 +2645,7 @@
 	"url": "https://listeamed.net/v/4bQVOjJJkPvOwKm",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2658,7 +2658,7 @@
         "info": "2006",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2668,7 +2668,7 @@
 	"info": "2022",
 	"image": "https://i.postimg.cc/908ycX6R/El-vestido-de-Oskar-2022-Pelicula-familiar.jpg", 
 	"url": "https://upstream.to/yxqzvzw0emrv", 
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2678,7 +2678,7 @@
 	"info": "2015",
 	"image": "https://i.postimg.cc/65hWt9MQ/Viaje-de-Arlo-El-2015-Pelicula.jpg", 
 	"url": "https://upstream.to/fqq1a5hzbfwt", 
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2690,7 +2690,7 @@
 "info": "[2024][Animación Comedia Familia]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
-"embed": "",
+"embed": "true",
 "isHost": "true",
 "online": "true",
 "import": false
@@ -2700,7 +2700,7 @@
 	"info": "2023",
 	"image": "https://i.postimg.cc/y6mSF9Yb/Violeta-el-hada-traviesa-881943136-large.jpg", 
 	"url": "https://upstream.to/ms3uosktbdbb",
-	"embed":"",
+	"embed": "true",
 	"isHost":"true",
 	"online":"true",
 	"import": false
@@ -2714,7 +2714,7 @@
        	"info":"2005",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2726,7 +2726,7 @@
        	"info":"",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2738,7 +2738,7 @@
        	"info":"1977",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2750,7 +2750,7 @@
        	"info":"2011",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2762,7 +2762,7 @@
        	"info":"2010",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2774,7 +2774,7 @@
       	"info": "[2024]",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
@@ -2786,7 +2786,7 @@
        	"image": "https://i.postimg.cc/KjSknVW4/Yuku-y-la-flor-del-Himalaya-2022-Pelicula-familiar.jpg",
        	"url": "https://upstream.to/1dgnalvred80",
        	"info": "2022",
-       	"embed": "",
+       	"embed": "true",
        	"isHost": "true",
        	"online": "true",
        	"import": false
@@ -2796,7 +2796,7 @@
        	"image": "https://i.postimg.cc/PxBMBQwp/Zoe-y-Tempestad-2022-Pelicula-familiar.jpg",
        	"url": "https://upstream.to/a2vg7v0pjhk3",
        	"info":"2O22",
-       	"embed":"",
+       	"embed": "true",
        	"isHost":"true",
        	"online":"true",
        	"import": false
@@ -2808,7 +2808,7 @@
         "info": "2016",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"referer": "",
-        "embed":"",
+        "embed": "true",
         "isHost":"true",
         "online":"true",
         "import": false
