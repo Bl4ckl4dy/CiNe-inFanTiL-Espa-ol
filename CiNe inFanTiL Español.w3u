@@ -2654,6 +2654,17 @@
         "online":"true",
         "import": false
 	},
+{ 
+        "name": "TOY STORY 5",
+	"info": "2019",
+        "image": "https://pics.filmaffinity.com/toy_story_5-460063087-mmed.jpg", 
+        "url": "https://byseraguci.com/e/6gmsx7g2l81v",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed": "true",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
 	{ 
         "name": "TROLLS 1",
         "image": "https://pics.filmaffinity.com/trolls-351313154-large.jpg", 
