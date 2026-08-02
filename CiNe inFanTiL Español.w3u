@@ -1414,6 +1414,28 @@
 "online": "true",
 "import": false
 },
+{
+         "name": "Los Picapiedra",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/z3NM5Lk7iIUI03ImIbH7Ihn8J7w.jpg",
+        "url": "https://pixeldrain.net/u/bp68ndko",
+         "info": "1994",
+         "embed": "true",
+         "isHost": "true",
+         "online": "true",
+  "userAgent":"PlusMediaPlayer/0.0.9",
+         "import": false
+         },
+{
+         "name": "Los Picapiedra en Viva Rock Vegas",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/iNXfjeOCQ4ObCcW9hpgS5wvDafq.jpg",
+        "url": "https://pixeldrain.net/u/5PjewBb2",
+         "info": "2000",
+         "embed": "true",
+         "isHost": "true",
+         "online": "true",
+  "userAgent":"PlusMediaPlayer/0.0.9",
+         "import": false
+         },
     {
     "name": "LOS SNEETCHES DEL DR. SEUSS",
     "image": "https://pics.filmaffinity.com/dr_seuss_s_the_sneetches-800683987-large.jpg",
