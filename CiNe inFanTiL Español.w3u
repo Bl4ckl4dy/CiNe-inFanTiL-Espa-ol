@@ -7,18 +7,6 @@
 "info": "Virgin Mary",
 "stations":
     [
-	{ 
-	"name": "Abominable", 
-	"info": "2019",
-	"image": "https://m.media-amazon.com/images/I/81kdaaa24fL._SL1500_.jpg", 
-	"url": "https://pixeldrain.net/u/GgMsBAX3",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-	"referer": "",
-        "embed": "true",
-        "isHost":"true",
-        "online":"true",
-        "import": false
-        },
 {
       "name": " Aladdin  ",
       "image": " https://media.themoviedb.org/t/p/w94_and_h141_face/trnyoKkkvvjZvRvCMrNDtSf25nH.jpg ",
